@@ -1,1 +1,3 @@
 # hello-world
+Hi all
+My name is Ankit Behera. I am currently in year 9 (2020) and attend Melbourne High School in Victoria, Australia. I live in Melbourne. I am a hindu. Some of my passions are science, math and cricket. Playing cricket is one of my favourite hobbies. I also like other sports. I personally think that i am kind, responsible and good at listening to others. Some people, such as my friends, call me Tikna, as that is my nickname, of which people made up for me. I will use Github for educational purposes as I am in my school robotics club, meaning I willv use this as a resource for my coding.
